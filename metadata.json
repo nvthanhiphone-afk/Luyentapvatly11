@@ -1,0 +1,8 @@
+{
+  "name": "LUYỆN TẬP MÔN VẬT LÝ CHUYÊN ĐỀ 11",
+  "description": "Hệ thống luyện tập và kiểm tra môn Vật lý Chuyên đề 11 trực tuyến dành cho học sinh THPT và giáo viên. Hỗ trợ nhập đề từ Excel, tự động chấm điểm, thống kê chi tiết và xuất báo cáo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
